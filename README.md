@@ -1,7 +1,7 @@
 # IT342-G2
 
-NAME: CHARLES WILLIAM R. SEVENIAL
+NAME: Achilles Niño Castañeda
 
 COURSE: BSIT-3
 
-I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
+I am Achilles Niño V. Castañeda. I am 21 years old. I am in an identity crisis and is stuck what path to choose in life, but I love making music and playing games.
