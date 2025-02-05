@@ -74,6 +74,10 @@ Hi I'm a student in CIT and a future System Admin
 
 # IT342-G2
 
+NAME: LIRASAN, JAPHET A.
+COURSE: BSIT-3
+
+ABOUT MYSELF:
 
 Name: Mike Francis Alon
 Course: BSIT-3
@@ -94,6 +98,7 @@ COURSE: BSIT-3<br></h3>
 My hobbies when I am productive is reading books, learning new coding method, and 
 watching GitHub. I also have hobbies for leisure time which is going to gym, biking, and 
 sleeping.</p>
+
 
 
 Name: Josemar Pajares
@@ -122,8 +127,7 @@ My goal is to become a web developer or game developer after honing my skills.
 
 # Name Danrave Keh
 # Course: BSIT-3
-# About Myself Gekapoy 
-
+# About Myself Gekapoy
 
 NAME: JOHN ERIC E. LUMAMBAS
 COURSE: BSIT - 3
