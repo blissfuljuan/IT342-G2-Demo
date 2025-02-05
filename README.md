@@ -49,6 +49,7 @@ ABOUT MYSELF:
 
 ##I'm mj and I'm 21 years old. I like playing games and listening to chill music.
 
+
 <div align="center">
   <!-- Animated Greeting -->
   <div style="margin-bottom: 20px;">
@@ -78,7 +79,6 @@ Name: Lanz Roy L. Sumalpong
 Course: BSIT-3
 
 Hi I'm a student in CIT and a future System Admin
-
 
 # IT342-G2
 
