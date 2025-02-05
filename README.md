@@ -1,6 +1,16 @@
 
 # IT342-G2
 
+Name: Jake Luis E. Lood
+
+Course: BSIT - 3
+
+HEllo, nice to meet you, you can call me jake, i love watching anime and eating yummy
+foods like unli chicken!
+
+
+# IT342-G2
+
 NAME: HAROLD VINCE MATA
 COURSE: BSIT-3
 
@@ -10,7 +20,7 @@ Address: Sta. fe Cebu
 Height: 5'7
 Weight: 64 kg
 Hobby:Basketball
-=======
+
 lanzbviot
 NAME: VINCE KYRIE T. SEVILLE
 
@@ -57,7 +67,7 @@ like watching movies and sleeping.
 
 Name: Janine P. Giducos Course: BSIT - 3 About Me:
 I am a simple person. 
-=======
+
 
 
 NAME: SILANGAN, JAMES RHUZELLE
@@ -119,7 +129,6 @@ Hi I'm a student in CIT and a future System Admin
 
 
 
-=======
 # IT342-G2
 
 NAME: LIRASAN, JAPHET A.
@@ -274,6 +283,7 @@ COURSE: BSIT-3
 I'm Ban Coca, from Cebu Philippines
 
 I’m currently a student in Cebu Institute of Technology - University
+
 
 
 
