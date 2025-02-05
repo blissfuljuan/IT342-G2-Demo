@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IT342-G2
 
 # About Me
@@ -231,6 +231,7 @@ ABOUT ME: I like music, movies and buying clothes. I love to thrift and cut my b
 
 
 
+
 **Name:** Nathaniel Salvoro
 **Program and Year:** BSIT - 4
 
@@ -311,4 +312,3 @@ I'm Ban Coca, from Cebu Philippines
 I’m currently a student in Cebu Institute of Technology - University
 
 
->>>>>>> main
