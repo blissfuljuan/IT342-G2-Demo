@@ -1,11 +1,11 @@
 # IT342-G2
 
-NAME: HAROLD VINCE MATA
+NAME: Harvey
 COURSE: BSIT-3
 
 ABOUT MYSELF
-Age: 21
+Age: 24
 Address: Sta. fe Cebu
-Height: 5'7
-Weight: 64 kg
+Height: 5'4
+Weight: 80 kg
 Hobby:Basketball
