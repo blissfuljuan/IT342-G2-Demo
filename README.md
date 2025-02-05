@@ -1,10 +1,16 @@
 # IT342-G2
 
 
+NAME: DAVE MARK D> CRYSTAL
+COURSE: BSIT-3
+
+ABOUT MY SELF
+I AM A SIMPLE AND HUNMBLE PERSON
 NAME: Paulo Carabuena
 COURSE: BSIT-3
 
 I am not myself because I lose myself when I can't eat dinosaur 🦖
+
 
 **Name**: Kurt Bryan C. Navaja
 **Course & Year**: BSIT-3
@@ -39,3 +45,4 @@ NAME: CHARLES WILLIAM R. SEVENIAL
 COURSE: BSIT-3
 
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
+
