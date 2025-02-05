@@ -1,5 +1,10 @@
 # IT342-G2
 
+**Name**: Kurt Bryan C. Navaja
+**Course & Year**: BSIT-3
+
+I like to go to the gym, play some online games, and play volleyball.
+
 NAME: MIKAEL LORENZO A. CUYUGAN
 COURSE: BSIT-3
 
@@ -28,4 +33,3 @@ NAME: CHARLES WILLIAM R. SEVENIAL
 COURSE: BSIT-3
 
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
-
