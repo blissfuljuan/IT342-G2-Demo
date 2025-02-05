@@ -45,6 +45,7 @@ NAME: LIRASAN, JAPHET A.
 COURSE: BSIT-3
 
 ABOUT MYSELF:
+I'm a normal person.
 
 Name: Mike Francis Alon
 Course: BSIT-3
