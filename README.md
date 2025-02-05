@@ -28,10 +28,18 @@ I am a Fullstack Web Developer with expertise in:
 
 # IT342-G2
 
+
+NAME: ANDRE LIM PORCINA
+COURSE: BSIT - 3
+
+ABOUT MYSELF:
+I AM A GOOD PERSON AHEHEH
+
 NAME: MANWARUL FRANCIS C. SANTOS
 COURSE: BSIT - 3
 
 I AM A CODM PLAYER. 
+
 
 NAME: JUDIEL OPPURA
 
@@ -183,6 +191,7 @@ I am not myself because I lose myself when I can't eat dinosaur 🦖
 **Course & Year**: BSIT-3
 
 I like to go to the gym, play some online games, and play volleyball.
+
 
 NAME: MIKAEL LORENZO A. CUYUGAN
 COURSE: BSIT-3
