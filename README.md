@@ -1,6 +1,8 @@
 # IT342-G2
 
 
+Name: Josemar Pajares
+Program and Year: BSIT - 3
 ## About Me
 
     Name: Josh Kyle E. Cervantes
@@ -20,8 +22,11 @@
 
 # Name Danrave Keh
 
-# Course: BSIT-3
+Currenly studying at Cebu Institure of Technology - University. 
+My goal is to become a web developer or game developer after honing my skills.
 
+# Name Danrave Keh
+# Course: BSIT-3
 # About Myself Gekapoy 
 
 
@@ -44,8 +49,6 @@ ABOUT ME: I like music, movies and buying clothes. I love to thrift and cut my b
 I'm currently studying in Cebu Institute of Technology - University.
 I aspire to be a web developer and UI/UX designer after I graduate.
 yey
-
-
 
 Name : Shaina F. Miparanum
 Year : BSIT 3
