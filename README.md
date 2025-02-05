@@ -1,6 +1,7 @@
 # IT342-G2
 
 
+
 **Name:** Nathaniel Salvoro
 **Program and Year:** BSIT - 4
 
@@ -8,6 +9,12 @@
 I'm currently studying in Cebu Institute of Technology - University.
 I aspire to be a web developer and UI/UX designer after I graduate.
 yey
+
+
+
+Name : Shaina F. Miparanum
+Year : BSIT 3
+
 
 
 NAME: DAVE MARK D> CRYSTAL
@@ -31,6 +38,7 @@ COURSE: BSIT-3
 
 ABOUT MYSELF
 I LOVE LISTENING TO MUSIC 
+
 
 NAME: AERON CLYDE ESPINA
 COURSE: BSIT-3
