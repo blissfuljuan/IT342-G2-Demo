@@ -5,6 +5,67 @@ COURSE: BSIT - 3
 
 ABOUT MYSELF:
 I AM A GOOD PERSON AHEHEH
+NAME: JUDIEL OPPURA
+
+COURSE: BSIT-3
+
+ABOUT MYSELF:
+
+##I'm mj and I'm 21 years old. I like playing games and listening to chill music.
+
+<div align="center">
+  <!-- Animated Greeting -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00FFF2&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Karl!+%F0%9F%94%A5;%3C%F0%9F%92%BB+Jared+Karl+Omen%2F%3E;%7B+BSIT+-3+%7D" alt="Typing SVG" />
+    </a>
+  </div>
+</div>
+
+<div>
+    <h1>IT342-G2</h1>
+</div>
+
+## Jared Karl A. Omen
+
+<!-- About Me Section with Floating Animation -->
+<h2>
+  About Me
+</h2>
+
+- 💻 IT student passionate about programming
+- 🌱 Currently learning and growing my development skills
+- 🚀 Love exploring new technologies
+
+# About me:
+Name: Lanz Roy L. Sumalpong
+Course: BSIT-3
+
+Hi I'm a student in CIT and a future System Admin
+
+
+# IT342-G2
+
+
+Name: Mike Francis Alon
+Course: BSIT-3
+ 
+## About Me
+ 
+I'm an easygoing and dependable person who enjoys playing mobile and ball games. Watching movies is one of my favorite ways to unwind in my free time.
+ 
+As an IT student, I'm passionate about technology and always eager to learn new skills. I'm excited to grow in the field and make an impact in the tech world!
+
+
+
+<h3>NAME: ANDRI M. APAS<br>
+COURSE: BSIT-3<br></h3>
+
+<h4>About Myself</h4>
+<p>Hello I'm Andri Apas a BSIT Third year student in Cebu Institute Technology - University.
+My hobbies when I am productive is reading books, learning new coding method, and 
+watching GitHub. I also have hobbies for leisure time which is going to gym, biking, and 
+sleeping.</p>
 
 
 Name: Josemar Pajares
