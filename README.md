@@ -1,5 +1,3 @@
-## About Me
-
 **Name:** Jiv S. Tuban  
 **Course:** BSIT-3
 
@@ -21,9 +19,7 @@ I am a Fullstack Web Developer with expertise in:
 
 ## CV
 
-<object data="./jiv-tuban-CV.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Your browser does not support PDFs. Download the PDF instead: <a href="./jiv-tuban-CV.pdf">Download PDF</a>.</p>
-</object>
+![Jiv Tuban CV](./jiv-tuban-CV-1.png)
 
 ---
 
