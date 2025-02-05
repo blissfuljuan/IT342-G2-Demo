@@ -1,5 +1,6 @@
 # IT342-G2
 
+
 ## About Me
 
     Name: Josh Kyle E. Cervantes
@@ -16,6 +17,13 @@
 - **Photo and Video Editing:** Experienced in editing photos and videos to enhance their visual impact and storytelling.
 - **UX/UI Design:** Adept at designing intuitive and engaging user interfaces that provide a seamless user experience.
 - **Continuous Learning:** Committed to continuous learning and improvement to keep my skills sharp and up-to-date.
+
+
+NAME: JOHN ERIC E. LUMAMBAS
+COURSE: BSIT - 3
+
+I AM JOHN ERIC E. LUMAMBAS, A HARDWORKING STUDENT WHO STRIVES TO PASS ALL SUBJECT WITHOUT FAILING.
+
 
 NAME: RICHELLE VILLANUEVA
 COURSE & YEAR: BSIT-3
