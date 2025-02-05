@@ -65,10 +65,6 @@ I am a Fullstack Web Developer with expertise in:
 - Committed to continuous learning
 - Up-to-date with emerging technologies
 
-## CV
-
-![Jiv Tuban CV](./jiv-tuban-CV-1.png)
-
 ---
 
 *Building the future of web, one line of code at a time.*
