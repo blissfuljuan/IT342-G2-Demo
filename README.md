@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+# IT342-G2
+
+# About Me
+Name: Benjamin E. Rivera 
+Course: BSIT-3
+
+Henlo 
+=======
 
 # IT342-G2
 
@@ -302,3 +311,4 @@ I'm Ban Coca, from Cebu Philippines
 I’m currently a student in Cebu Institute of Technology - University
 
 
+>>>>>>> main
