@@ -3,7 +3,7 @@
 ## About Me
 
 **Name:** Jiv S. Tuban  
-**Course:** BSIT-4
+**Course:** BSIT-3
 
 ## Professional Summary
 
