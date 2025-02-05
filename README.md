@@ -1,3 +1,10 @@
+lanzbviot
+NAME: VINCE KYRIE T. SEVILLE
+
+COURSE: BSIT-3
+
+I am VINCE KYRIE SEVILLE, 22 Years Old. I like playing video games!
+
 
 **Name:** Jiv S. Tuban  
 **Course:** BSIT-3
@@ -28,6 +35,16 @@ I am a Fullstack Web Developer with expertise in:
 
 # IT342-G2
 
+Name: Jared Chester S. Canasa
+
+Course: BSIT - 3
+
+I am Jared Chester S. Canasa, I'm 21 years old and I
+like watching movies and sleeping.
+
+Name: Janine P. Giducos Course: BSIT - 3 About Me:
+I am a simple person. 
+=======
 
 
 NAME: SILANGAN, JAMES RHUZELLE
@@ -45,6 +62,7 @@ NAME: MANWARUL FRANCIS C. SANTOS
 COURSE: BSIT - 3
 
 I AM A CODM PLAYER. 
+
 
 
 NAME: JUDIEL OPPURA
@@ -86,6 +104,9 @@ Course: BSIT-3
 
 Hi I'm a student in CIT and a future System Admin
 
+
+
+=======
 # IT342-G2
 
 NAME: LIRASAN, JAPHET A.
