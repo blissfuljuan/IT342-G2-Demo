@@ -21,6 +21,12 @@ I am a Fullstack Web Developer with expertise in:
 - Committed to continuous learning
 - Up-to-date with emerging technologies
 
+## CV
+
+<object data="https://drive.google.com/file/d/1ZGC12GkLalDcdKqgBLGfbZY5LRJtmqXt/view?usp=sharing" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. Download the PDF instead: <a href="https://drive.google.com/file/d/1ZGC12GkLalDcdKqgBLGfbZY5LRJtmqXt/view?usp=sharing">Download PDF</a>.</p>
+</object>
+
 ---
 
 *Building the future of web, one line of code at a time.*
