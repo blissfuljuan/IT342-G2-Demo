@@ -1,5 +1,9 @@
 # IT342-G2
 
+NAME: RICHELLE VILLANUEVA
+COURSE & YEAR: BSIT-3
+ABOUT ME: I like music, movies and buying clothes. I love to thrift and cut my bangs short. I love you. 
+
 
 
 **Name:** Nathaniel Salvoro
@@ -14,6 +18,14 @@ yey
 
 Name : Shaina F. Miparanum
 Year : BSIT 3
+
+
+
+NAME: MIKLOS KAISER A. BOLARDE
+COURSE: BSIT-3
+
+ABOUT MYSELF
+I AM AN UNDERSTANDING PERSON WITH A GREAT PERSONALITY AND WITH A GENTLE HEART <3
 
 
 
