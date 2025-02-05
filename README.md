@@ -58,6 +58,13 @@ I am a Fullstack Web Developer with expertise in:
 
 # IT342-G2
 
+
+Name: Darwin Darryl Jean Largoza
+
+Course: BSIT - 3
+
+Hello, I'm Darwin Darryl Jean Largoza but you can call me Darryl. I'm 21 years old and i love photography.
+
 Name: Jared Chester S. Canasa
 
 Course: BSIT - 3
@@ -74,6 +81,7 @@ NAME: SILANGAN, JAMES RHUZELLE
 COURSE: BSIT-3
 
 ABOUT MYSELF: simple person.X
+
 
 NAME: ANDRE LIM PORCINA
 COURSE: BSIT - 3
