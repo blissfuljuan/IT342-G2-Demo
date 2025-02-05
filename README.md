@@ -29,6 +29,12 @@ I am a Fullstack Web Developer with expertise in:
 # IT342-G2
 
 
+
+NAME: SILANGAN, JAMES RHUZELLE
+COURSE: BSIT-3
+
+ABOUT MYSELF: simple person.X
+
 NAME: ANDRE LIM PORCINA
 COURSE: BSIT - 3
 
