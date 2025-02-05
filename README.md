@@ -1,10 +1,51 @@
+
+**Name:** Jiv S. Tuban  
+**Course:** BSIT-3
+
+## Professional Summary
+
+I am a Fullstack Web Developer with expertise in:
+
+- 💻 Creating intuitive user experiences
+- ⚙️ Developing robust backend systems
+- 🎯 Building efficient web solutions
+- ✨ Writing clean, maintainable code
+
+### Key Strengths
+
+- Strong problem-solving skills
+- Collaborative team player
+- Committed to continuous learning
+- Up-to-date with emerging technologies
+
+## CV
+
+![Jiv Tuban CV](./jiv-tuban-CV-1.png)
+
+---
+
+*Building the future of web, one line of code at a time.*
+
 # IT342-G2
+
 
 
 NAME: SILANGAN, JAMES RHUZELLE
 COURSE: BSIT-3
 
 ABOUT MYSELF: simple person.X
+
+NAME: ANDRE LIM PORCINA
+COURSE: BSIT - 3
+
+ABOUT MYSELF:
+I AM A GOOD PERSON AHEHEH
+
+NAME: MANWARUL FRANCIS C. SANTOS
+COURSE: BSIT - 3
+
+I AM A CODM PLAYER. 
+
 
 NAME: JUDIEL OPPURA
 
@@ -47,6 +88,16 @@ Hi I'm a student in CIT and a future System Admin
 
 # IT342-G2
 
+NAME: LIRASAN, JAPHET A.
+COURSE: BSIT-3
+
+ABOUT MYSELF:
+
+NAME: Muttia Selgas
+COURSE: BSIT
+
+ABOUT MYSELF:
+I am nonchalant.
 
 Name: Mike Francis Alon
 Course: BSIT-3
@@ -96,8 +147,7 @@ My goal is to become a web developer or game developer after honing my skills.
 
 # Name Danrave Keh
 # Course: BSIT-3
-# About Myself Gekapoy 
-
+# About Myself Gekapoy
 
 NAME: JOHN ERIC E. LUMAMBAS
 COURSE: BSIT - 3
@@ -148,6 +198,7 @@ I am not myself because I lose myself when I can't eat dinosaur 🦖
 
 I like to go to the gym, play some online games, and play volleyball.
 
+
 NAME: MIKAEL LORENZO A. CUYUGAN
 COURSE: BSIT-3
 
@@ -181,10 +232,12 @@ COURSE: BSIT-3
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
 
 
+
 NAME: VAN HARVEY R. COCA
 COURSE: BSIT-3
 
 I'm Ban Coca, from Cebu Philippines
 
 I’m currently a student in Cebu Institute of Technology - University
+
 
