@@ -3,10 +3,23 @@
 
 # About me
 
+
+
+
+
+
 Name : Shaina F. Miparanum
 Year : BSIT 3
 
-=======
+
+NAME: AERON CLYDE ESPINA
+COURSE: BSIT-3
+
+ABOUT MY SELF:
+
+I'm just a simple person, I have simple dreams and goals in life.
+I am good with computers, hardware and software. I like watching anime and history movies.
+
 Name: ALDRIN JOHN VITORILLO
 COURSE: BSIT-3
 
