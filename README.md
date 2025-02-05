@@ -1,1 +1,7 @@
 # IT342-G2
+
+NAME: LIRASAN, JAPHET A.
+COURSE: BSIT-3
+
+ABOUT MYSELF:
+I'm a simple person.
