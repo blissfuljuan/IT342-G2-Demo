@@ -1,15 +1,33 @@
 # IT342-G2
 
 
-# About me
-
-
-
-
 
 
 Name : Shaina F. Miparanum
 Year : BSIT 3
+
+
+NAME: DAVE MARK D> CRYSTAL
+COURSE: BSIT-3
+
+ABOUT MY SELF
+I AM A SIMPLE AND HUNMBLE PERSON
+NAME: Paulo Carabuena
+COURSE: BSIT-3
+
+I am not myself because I lose myself when I can't eat dinosaur 🦖
+
+
+**Name**: Kurt Bryan C. Navaja
+**Course & Year**: BSIT-3
+
+I like to go to the gym, play some online games, and play volleyball.
+
+NAME: MIKAEL LORENZO A. CUYUGAN
+COURSE: BSIT-3
+
+ABOUT MYSELF
+I LOVE LISTENING TO MUSIC 
 
 
 NAME: AERON CLYDE ESPINA
