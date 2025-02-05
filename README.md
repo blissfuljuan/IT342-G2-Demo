@@ -6,10 +6,10 @@
 
 ---
 
-### 🎓 Mikhail James P Navarro
+### NAME:Mikhail James P Navarro
 
-### 🏫 3rd Year BSIT
+### COURSE: BSIT-3
 
-
+Hello, My name is Mikhail James P. Navarro and I like games :>
 > _"I live in a constant state of fear and misery."_ 
 
