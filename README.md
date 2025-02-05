@@ -1,5 +1,3 @@
-# IT342-G2 🚀
-
 ## About Me
 
 **Name:** Jiv S. Tuban  
@@ -23,8 +21,8 @@ I am a Fullstack Web Developer with expertise in:
 
 ## CV
 
-<object data="https://drive.google.com/file/d/1ZGC12GkLalDcdKqgBLGfbZY5LRJtmqXt/view?usp=sharing" type="application/pdf" width="100%" height="600px">
-  <p>Your browser does not support PDFs. Download the PDF instead: <a href="https://drive.google.com/file/d/1ZGC12GkLalDcdKqgBLGfbZY5LRJtmqXt/view?usp=sharing">Download PDF</a>.</p>
+<object data="./jiv-tuban-CV.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. Download the PDF instead: <a href="./jiv-tuban-CV.pdf">Download PDF</a>.</p>
 </object>
 
 ---
