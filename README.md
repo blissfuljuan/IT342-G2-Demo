@@ -1,6 +1,15 @@
 
 # IT342-G2
 
+# About Me
+Name : Kris Jan Melvin D. Yu
+Course : BSIT - 3
+ 
+# Hellloooooo
+
+
+# IT342-G2
+
 Name: Jake Luis E. Lood
 
 Course: BSIT - 3
@@ -291,7 +300,5 @@ COURSE: BSIT-3
 I'm Ban Coca, from Cebu Philippines
 
 I’m currently a student in Cebu Institute of Technology - University
-
-
 
 
