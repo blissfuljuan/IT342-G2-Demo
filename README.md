@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Name:** Jiv S. Tuban  
 **Course:** BSIT-3
 
@@ -24,3 +25,6 @@ I am a Fullstack Web Developer with expertise in:
 ---
 
 *Building the future of web, one line of code at a time.*
+=======
+# IT342-G2
+>>>>>>> parent of 6b440ce (mao rato)
