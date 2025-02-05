@@ -1,4 +1,36 @@
 
+# IT342-G2
+
+# About Me
+Name : Kris Jan Melvin D. Yu
+Course : BSIT - 3
+ 
+# Hellloooooo
+
+
+# IT342-G2
+
+Name: Jake Luis E. Lood
+
+Course: BSIT - 3
+
+HEllo, nice to meet you, you can call me jake, i love watching anime and eating yummy
+foods like unli chicken!
+
+
+# IT342-G2
+
+NAME: HAROLD VINCE MATA
+COURSE: BSIT-3
+
+ABOUT MYSELF
+Age: 21
+Address: Sta. fe Cebu
+Height: 5'7
+Weight: 64 kg
+Hobby:Basketball
+
+lanzbviot
 NAME: VINCE KYRIE T. SEVILLE
 
 COURSE: BSIT-3
@@ -35,6 +67,13 @@ I am a Fullstack Web Developer with expertise in:
 
 # IT342-G2
 
+
+Name: Darwin Darryl Jean Largoza
+
+Course: BSIT - 3
+
+Hello, I'm Darwin Darryl Jean Largoza but you can call me Darryl. I'm 21 years old and i love photography.
+
 Name: Jared Chester S. Canasa
 
 Course: BSIT - 3
@@ -44,13 +83,14 @@ like watching movies and sleeping.
 
 Name: Janine P. Giducos Course: BSIT - 3 About Me:
 I am a simple person. 
-=======
+
 
 
 NAME: SILANGAN, JAMES RHUZELLE
 COURSE: BSIT-3
 
 ABOUT MYSELF: simple person.X
+
 
 NAME: ANDRE LIM PORCINA
 COURSE: BSIT - 3
@@ -106,13 +146,13 @@ Hi I'm a student in CIT and a future System Admin
 
 
 
-=======
 # IT342-G2
 
 NAME: LIRASAN, JAPHET A.
 COURSE: BSIT-3
 
 ABOUT MYSELF:
+I'm a normal person.
 
 NAME: Muttia Selgas
 COURSE: BSIT
