@@ -1,3 +1,31 @@
+
+**Name:** Jiv S. Tuban  
+**Course:** BSIT-3
+
+## Professional Summary
+
+I am a Fullstack Web Developer with expertise in:
+
+- 💻 Creating intuitive user experiences
+- ⚙️ Developing robust backend systems
+- 🎯 Building efficient web solutions
+- ✨ Writing clean, maintainable code
+
+### Key Strengths
+
+- Strong problem-solving skills
+- Collaborative team player
+- Committed to continuous learning
+- Up-to-date with emerging technologies
+
+## CV
+
+![Jiv Tuban CV](./jiv-tuban-CV-1.png)
+
+---
+
+*Building the future of web, one line of code at a time.*
+
 # IT342-G2
 
 Name: Darwin Darryl Jean Largoza
@@ -5,6 +33,19 @@ Name: Darwin Darryl Jean Largoza
 Course: BSIT - 3
 
 Hello, I'm Darwin Darryl Jean Largoza but you can call me Darryl. I'm 21 years old and i love photography.
+
+NAME: ANDRE LIM PORCINA
+COURSE: BSIT - 3
+
+ABOUT MYSELF:
+I AM A GOOD PERSON AHEHEH
+
+NAME: MANWARUL FRANCIS C. SANTOS
+COURSE: BSIT - 3
+
+I AM A CODM PLAYER. 
+
+
 NAME: JUDIEL OPPURA
 
 COURSE: BSIT-3
@@ -46,6 +87,16 @@ Hi I'm a student in CIT and a future System Admin
 
 # IT342-G2
 
+NAME: LIRASAN, JAPHET A.
+COURSE: BSIT-3
+
+ABOUT MYSELF:
+
+NAME: Muttia Selgas
+COURSE: BSIT
+
+ABOUT MYSELF:
+I am nonchalant.
 
 Name: Mike Francis Alon
 Course: BSIT-3
@@ -66,6 +117,7 @@ COURSE: BSIT-3<br></h3>
 My hobbies when I am productive is reading books, learning new coding method, and 
 watching GitHub. I also have hobbies for leisure time which is going to gym, biking, and 
 sleeping.</p>
+
 
 
 Name: Josemar Pajares
@@ -94,8 +146,7 @@ My goal is to become a web developer or game developer after honing my skills.
 
 # Name Danrave Keh
 # Course: BSIT-3
-# About Myself Gekapoy 
-
+# About Myself Gekapoy
 
 NAME: JOHN ERIC E. LUMAMBAS
 COURSE: BSIT - 3
@@ -146,6 +197,7 @@ I am not myself because I lose myself when I can't eat dinosaur 🦖
 
 I like to go to the gym, play some online games, and play volleyball.
 
+
 NAME: MIKAEL LORENZO A. CUYUGAN
 COURSE: BSIT-3
 
@@ -160,6 +212,7 @@ ABOUT MY SELF:
 
 I'm just a simple person, I have simple dreams and goals in life.
 I am good with computers, hardware and software. I like watching anime and history movies.
+
 
 Name: ALDRIN JOHN VITORILLO
 COURSE: BSIT-3
@@ -176,4 +229,14 @@ NAME: CHARLES WILLIAM R. SEVENIAL
 COURSE: BSIT-3
 
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
+
+
+
+NAME: VAN HARVEY R. COCA
+COURSE: BSIT-3
+
+I'm Ban Coca, from Cebu Philippines
+
+I’m currently a student in Cebu Institute of Technology - University
+
 
