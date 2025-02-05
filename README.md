@@ -79,6 +79,12 @@ COURSE: BSIT-3
 
 ABOUT MYSELF:
 
+NAME: Muttia Selgas
+COURSE: BSIT
+
+ABOUT MYSELF:
+I am nonchalant.
+
 Name: Mike Francis Alon
 Course: BSIT-3
  
@@ -193,6 +199,7 @@ ABOUT MY SELF:
 I'm just a simple person, I have simple dreams and goals in life.
 I am good with computers, hardware and software. I like watching anime and history movies.
 
+
 Name: ALDRIN JOHN VITORILLO
 COURSE: BSIT-3
 
@@ -210,10 +217,12 @@ COURSE: BSIT-3
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
 
 
+
 NAME: VAN HARVEY R. COCA
 COURSE: BSIT-3
 
 I'm Ban Coca, from Cebu Philippines
 
 I’m currently a student in Cebu Institute of Technology - University
+
 
