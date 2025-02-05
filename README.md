@@ -6,9 +6,19 @@ ABOUT ME: I like music, movies and buying clothes. I love to thrift and cut my b
 
 
 
+**Name:** Nathaniel Salvoro
+**Program and Year:** BSIT - 4
+
+**About me**
+I'm currently studying in Cebu Institute of Technology - University.
+I aspire to be a web developer and UI/UX designer after I graduate.
+yey
+
+
 
 Name : Shaina F. Miparanum
 Year : BSIT 3
+
 
 
 NAME: MIKLOS KAISER A. BOLARDE
@@ -16,6 +26,7 @@ COURSE: BSIT-3
 
 ABOUT MYSELF
 I AM AN UNDERSTANDING PERSON WITH A GREAT PERSONALITY AND WITH A GENTLE HEART <3
+
 
 
 NAME: DAVE MARK D> CRYSTAL
@@ -63,4 +74,5 @@ NAME: CHARLES WILLIAM R. SEVENIAL
 COURSE: BSIT-3
 
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
+
 
