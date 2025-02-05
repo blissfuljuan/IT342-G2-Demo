@@ -1,4 +1,34 @@
 
+# IT342-G2
+
+Name: Jake Luis E. Lood
+
+Course: BSIT - 3
+
+HEllo, nice to meet you, you can call me jake, i love watching anime and eating yummy
+foods like unli chicken!
+
+
+# IT342-G2
+
+NAME: HAROLD VINCE MATA
+COURSE: BSIT-3
+
+ABOUT MYSELF
+Age: 21
+Address: Sta. fe Cebu
+Height: 5'7
+Weight: 64 kg
+Hobby:Basketball
+
+lanzbviot
+NAME: VINCE KYRIE T. SEVILLE
+
+COURSE: BSIT-3
+
+I am VINCE KYRIE SEVILLE, 22 Years Old. I like playing video games!
+
+
 **Name:** Jiv S. Tuban  
 **Course:** BSIT-3
 
@@ -28,11 +58,30 @@ I am a Fullstack Web Developer with expertise in:
 
 # IT342-G2
 
+
 Name: Darwin Darryl Jean Largoza
 
 Course: BSIT - 3
 
 Hello, I'm Darwin Darryl Jean Largoza but you can call me Darryl. I'm 21 years old and i love photography.
+
+Name: Jared Chester S. Canasa
+
+Course: BSIT - 3
+
+I am Jared Chester S. Canasa, I'm 21 years old and I
+like watching movies and sleeping.
+
+Name: Janine P. Giducos Course: BSIT - 3 About Me:
+I am a simple person. 
+
+
+
+NAME: SILANGAN, JAMES RHUZELLE
+COURSE: BSIT-3
+
+ABOUT MYSELF: simple person.X
+
 
 NAME: ANDRE LIM PORCINA
 COURSE: BSIT - 3
@@ -46,6 +95,7 @@ COURSE: BSIT - 3
 I AM A CODM PLAYER. 
 
 
+
 NAME: JUDIEL OPPURA
 
 COURSE: BSIT-3
@@ -53,6 +103,7 @@ COURSE: BSIT-3
 ABOUT MYSELF:
 
 ##I'm mj and I'm 21 years old. I like playing games and listening to chill music.
+
 
 <div align="center">
   <!-- Animated Greeting -->
@@ -85,12 +136,14 @@ Course: BSIT-3
 Hi I'm a student in CIT and a future System Admin
 
 
+
 # IT342-G2
 
 NAME: LIRASAN, JAPHET A.
 COURSE: BSIT-3
 
 ABOUT MYSELF:
+I'm a normal person.
 
 NAME: Muttia Selgas
 COURSE: BSIT
@@ -238,5 +291,7 @@ COURSE: BSIT-3
 I'm Ban Coca, from Cebu Philippines
 
 I’m currently a student in Cebu Institute of Technology - University
+
+
 
 
