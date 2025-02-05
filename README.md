@@ -1,5 +1,17 @@
 # IT342-G2
 
+
+Name: Mike Francis Alon
+Course: BSIT-3
+ 
+## About Me
+ 
+I'm an easygoing and dependable person who enjoys playing mobile and ball games. Watching movies is one of my favorite ways to unwind in my free time.
+ 
+As an IT student, I'm passionate about technology and always eager to learn new skills. I'm excited to grow in the field and make an impact in the tech world!
+
+
+
 <h3>NAME: ANDRI M. APAS<br>
 COURSE: BSIT-3<br></h3>
 
@@ -8,6 +20,7 @@ COURSE: BSIT-3<br></h3>
 My hobbies when I am productive is reading books, learning new coding method, and 
 watching GitHub. I also have hobbies for leisure time which is going to gym, biking, and 
 sleeping.</p>
+
 
 Name: Josemar Pajares
 Program and Year: BSIT - 3
@@ -118,3 +131,4 @@ COURSE: BSIT-3
 
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
 
+ 
