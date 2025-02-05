@@ -113,6 +113,7 @@ NAME: LIRASAN, JAPHET A.
 COURSE: BSIT-3
 
 ABOUT MYSELF:
+I'm a normal person.
 
 NAME: Muttia Selgas
 COURSE: BSIT
