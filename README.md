@@ -120,11 +120,13 @@ COURSE: BSIT
 
 ABOUT MYSELF:
 I am nonchalant.
+
 NAME: Achilles Niño Castañeda
 
 COURSE: BSIT-3
 
-I am Achilles Niño V. Castañeda. I am 21 years old. I am in an identity crisis and is stuck what path to choose in life, but I love making music and playing games.
+I am Achilles Niño V. Castañeda. I am 21 years old. I am in an identity crisis and is stuck what path to choose in life, but I love making music and playing games. My main dream
+is to become a Music Composer. Taking this IT course is just a mean to financially support my dream.
 
 Name: Mike Francis Alon
 Course: BSIT-3
