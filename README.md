@@ -1,3 +1,38 @@
+
+NAME: VINCE KYRIE T. SEVILLE
+
+COURSE: BSIT-3
+
+I am VINCE KYRIE SEVILLE, 22 Years Old. I like playing video games!
+
+
+**Name:** Jiv S. Tuban  
+**Course:** BSIT-3
+
+## Professional Summary
+
+I am a Fullstack Web Developer with expertise in:
+
+- 💻 Creating intuitive user experiences
+- ⚙️ Developing robust backend systems
+- 🎯 Building efficient web solutions
+- ✨ Writing clean, maintainable code
+
+### Key Strengths
+
+- Strong problem-solving skills
+- Collaborative team player
+- Committed to continuous learning
+- Up-to-date with emerging technologies
+
+## CV
+
+![Jiv Tuban CV](./jiv-tuban-CV-1.png)
+
+---
+
+*Building the future of web, one line of code at a time.*
+
 # IT342-G2
 
 Name: Jared Chester S. Canasa
@@ -6,6 +41,98 @@ Course: BSIT - 3
 
 I am Jared Chester S. Canasa, I'm 21 years old and I
 like watching movies and sleeping.
+
+
+NAME: SILANGAN, JAMES RHUZELLE
+COURSE: BSIT-3
+
+ABOUT MYSELF: simple person.X
+
+NAME: ANDRE LIM PORCINA
+COURSE: BSIT - 3
+
+ABOUT MYSELF:
+I AM A GOOD PERSON AHEHEH
+
+NAME: MANWARUL FRANCIS C. SANTOS
+COURSE: BSIT - 3
+
+I AM A CODM PLAYER. 
+
+
+NAME: JUDIEL OPPURA
+
+COURSE: BSIT-3
+
+ABOUT MYSELF:
+
+##I'm mj and I'm 21 years old. I like playing games and listening to chill music.
+
+
+<div align="center">
+  <!-- Animated Greeting -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00FFF2&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Karl!+%F0%9F%94%A5;%3C%F0%9F%92%BB+Jared+Karl+Omen%2F%3E;%7B+BSIT+-3+%7D" alt="Typing SVG" />
+    </a>
+  </div>
+</div>
+
+<div>
+    <h1>IT342-G2</h1>
+</div>
+
+## Jared Karl A. Omen
+
+<!-- About Me Section with Floating Animation -->
+<h2>
+  About Me
+</h2>
+
+- 💻 IT student passionate about programming
+- 🌱 Currently learning and growing my development skills
+- 🚀 Love exploring new technologies
+
+# About me:
+Name: Lanz Roy L. Sumalpong
+Course: BSIT-3
+
+Hi I'm a student in CIT and a future System Admin
+
+# IT342-G2
+
+NAME: LIRASAN, JAPHET A.
+COURSE: BSIT-3
+
+ABOUT MYSELF:
+
+NAME: Muttia Selgas
+COURSE: BSIT
+
+ABOUT MYSELF:
+I am nonchalant.
+
+Name: Mike Francis Alon
+Course: BSIT-3
+ 
+## About Me
+ 
+I'm an easygoing and dependable person who enjoys playing mobile and ball games. Watching movies is one of my favorite ways to unwind in my free time.
+ 
+As an IT student, I'm passionate about technology and always eager to learn new skills. I'm excited to grow in the field and make an impact in the tech world!
+
+
+
+<h3>NAME: ANDRI M. APAS<br>
+COURSE: BSIT-3<br></h3>
+
+<h4>About Myself</h4>
+<p>Hello I'm Andri Apas a BSIT Third year student in Cebu Institute Technology - University.
+My hobbies when I am productive is reading books, learning new coding method, and 
+watching GitHub. I also have hobbies for leisure time which is going to gym, biking, and 
+sleeping.</p>
+
+
 
 Name: Josemar Pajares
 Program and Year: BSIT - 3
@@ -33,8 +160,7 @@ My goal is to become a web developer or game developer after honing my skills.
 
 # Name Danrave Keh
 # Course: BSIT-3
-# About Myself Gekapoy 
-
+# About Myself Gekapoy
 
 NAME: JOHN ERIC E. LUMAMBAS
 COURSE: BSIT - 3
@@ -85,6 +211,7 @@ I am not myself because I lose myself when I can't eat dinosaur 🦖
 
 I like to go to the gym, play some online games, and play volleyball.
 
+
 NAME: MIKAEL LORENZO A. CUYUGAN
 COURSE: BSIT-3
 
@@ -99,6 +226,7 @@ ABOUT MY SELF:
 
 I'm just a simple person, I have simple dreams and goals in life.
 I am good with computers, hardware and software. I like watching anime and history movies.
+
 
 Name: ALDRIN JOHN VITORILLO
 COURSE: BSIT-3
@@ -115,5 +243,14 @@ NAME: CHARLES WILLIAM R. SEVENIAL
 COURSE: BSIT-3
 
 I AM CHARLES WILLIAM SEVENIAL, I AM 21 YEARS OLD. I LIKE WATCHING MOVIES AND LISTENING TO MUSIC
+
+
+
+NAME: VAN HARVEY R. COCA
+COURSE: BSIT-3
+
+I'm Ban Coca, from Cebu Philippines
+
+I’m currently a student in Cebu Institute of Technology - University
 
 
