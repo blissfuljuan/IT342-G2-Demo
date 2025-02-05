@@ -36,6 +36,10 @@ I am a Fullstack Web Developer with expertise in:
 # IT342-G2
 
 
+Name: Janine P. Giducos Course: BSIT - 3 About Me:
+I am a simple person. 
+=======
+
 
 NAME: SILANGAN, JAMES RHUZELLE
 COURSE: BSIT-3
@@ -52,6 +56,7 @@ NAME: MANWARUL FRANCIS C. SANTOS
 COURSE: BSIT - 3
 
 I AM A CODM PLAYER. 
+
 
 
 NAME: JUDIEL OPPURA
@@ -93,6 +98,9 @@ Course: BSIT-3
 
 Hi I'm a student in CIT and a future System Admin
 
+
+
+=======
 # IT342-G2
 
 NAME: LIRASAN, JAPHET A.
