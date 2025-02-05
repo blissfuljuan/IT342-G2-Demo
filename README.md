@@ -18,6 +18,12 @@
 - **UX/UI Design:** Adept at designing intuitive and engaging user interfaces that provide a seamless user experience.
 - **Continuous Learning:** Committed to continuous learning and improvement to keep my skills sharp and up-to-date.
 
+# Name Danrave Keh
+
+# Course: BSIT-3
+
+# About Myself Gekapoy 
+
 
 NAME: JOHN ERIC E. LUMAMBAS
 COURSE: BSIT - 3
@@ -90,6 +96,7 @@ COURSE: BSIT-3
 
 ABOUT MY SELF
 Hi, I'm Aldrin John, a web developer with a strong interest. Making games and websites is my area of expertise. 
+
 Vincent B. Pacaña
 BSIT - 3
 I am a person who likes to explore and try out new things!
