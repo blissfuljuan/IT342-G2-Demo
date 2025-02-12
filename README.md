@@ -314,3 +314,6 @@ I'm Ban Coca, from Cebu Philippines
 I’m currently a student in Cebu Institute of Technology - University
 
 
+Name: Maryanne Malinao
+Course: BSIT-3
+About Me: I am from Busay Cebu City and currently enrolled in Cebu Institute of Technology - University
