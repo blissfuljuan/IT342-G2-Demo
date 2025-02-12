@@ -319,3 +319,8 @@ I’m currently a student in Cebu Institute of Technology - University
 NAME: Laura Alexia Jane Fortugaliza
 COURSE: BSIT-3
 ABOUT: I am an artist and a gamer.
+
+Name: Maryanne Malinao
+Course: BSIT-3
+About Me: I am from Busay Cebu City and currently enrolled in Cebu Institute of Technology - University
+
