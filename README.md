@@ -324,3 +324,12 @@ Name: Maryanne Malinao
 Course: BSIT-3
 About Me: I am from Busay Cebu City and currently enrolled in Cebu Institute of Technology - University
 
+```yaml
+name: Mykha Abarquez
+course: BSIT
+hobbies: ["Gaming", "Bingewatching", "Reading"]
+about_me:
+  [
+    I am a student at Cebu Institute of Technology-University.
+  ]
+```
